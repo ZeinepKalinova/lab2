@@ -3,3 +3,4 @@ age = input("Your age: ")
 print(f"Name: {name}  Age: {age}")
 print(f"Name: {name}  Age: {age}")
 print(f"Name: {name}  Age: {age}")
+
